@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-oauth2-code-pkce": "^1.23.2"
+  }
+}
